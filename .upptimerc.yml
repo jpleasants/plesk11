@@ -3,37 +3,36 @@ owner: jpleasants # Your GitHub organization or username, where this repository 
 repo: plesk9 # The name of this repository
 
 sites:
-  - name: Obsn
+  - name: Plesk 9
+    url: https://plesk9.samitsolutions.com
+    port: 8443
+  - name: OBSN
     url: https://obsn.org
   - name: Saffron Cary
     url: https://saffroncary.com
-  - name: Chaat Mand Inc
+  - name: Chaat Mandi NC
     url: https://chaatmandinc.com
-  - name: Staging Obsn 
+  - name: OBSN Staging
     url: https://staging.obsn.com
-  - name: Maharaja Nc
+  - name: Maharaja NC
     url: https://maharajanc.com
-  - name: Maharaja Nc
-    url: https://maharajanc.com
-  - name: thalirtp
+  - name: Thali RTP
     url: https://thalirtp.com
-  - name: Ncspices
+  - name: NC Spices
     url: https://ncspices.com
   - name: Directed Facility Solutions
     url: https://directedfacilitysolutions.com
-  - name: Ncsglobalinc
+  - name: NCS Global Inc
     url: https://ncsglobalinc.com
-  - name: Park Lifecomm
+  - name: Park Life
     url: https://parklifecomm.com
-  - name: Park Lifecomm
-    url: https://parklifecomm.com
-  - name: March to Thepolls
+  - name: March to The Polls
     url: https://marchtothepolls.org
-  - name: mshubs
+  - name: MS Hubs
     url: https://mshubs.com
   - name: Epec Solutions Inc
     url: https://epecsolutionsinc.com
-  - name: May Flower seafoodrm
+  - name: May Flower Seafood
     url: https://mayflowerseafoodrm.com
   - name: Veear Health
     url: https://veearhealth.com
@@ -47,11 +46,11 @@ sites:
     url: https://tekrek.com
   - name: Chaska Indian Cuisine
     url: https://chaskaindiancuisine.com
-  - name: Tara Gems Galorellc
+  - name: Tara Gems Galore
     url: https://taragemsgalorellc.com
   - name: Saffron Durham
     url: https://saffrondurham.com
-  - name: Vata vriksh
+  - name: Vata Vriksh
     url: https://vatavriksh.com
   - name: Launch Morrisville
     url: https://LaunchMorrisville.org
