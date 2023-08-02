@@ -3,9 +3,61 @@ owner: jpleasants # Your GitHub organization or username, where this repository 
 repo: plesk9 # The name of this repository
 
 sites:
-  - name: Placeholder
-    url: https://placeholder.com
+  - name: Plesk 9
+    url: https://plesk9.samitsolutions.com
+    port: 8443
+  - name: OBSN
+    url: https://obsn.org
+  - name: Saffron Cary
+    url: https://saffroncary.com
+  - name: Chaat Mandi NC
+    url: https://chaatmandinc.com
+  - name: OBSN Staging
+    url: https://staging.obsn.com
+  - name: Maharaja NC
+    url: https://maharajanc.com
+  - name: Thali RTP
+    url: https://thalirtp.com
+  - name: NC Spices
+    url: https://ncspices.com
+  - name: Directed Facility Solutions
+    url: https://directedfacilitysolutions.com
+  - name: NCS Global Inc
+    url: https://ncsglobalinc.com
+  - name: Park Life
+    url: https://parklifecomm.com
+  - name: March to The Polls
+    url: https://marchtothepolls.org
+  - name: MS Hubs
+    url: https://mshubs.com
+  - name: Epec Solutions Inc
+    url: https://epecsolutionsinc.com
+  - name: May Flower Seafood
+    url: https://mayflowerseafoodrm.com
+  - name: Veear Health
+    url: https://veearhealth.com
+  - name: Origin Hubs
+    url: https://originhubs.com
+  - name: Doorworks Company
+    url: https://doorworkscompany.com
+  - name: Carolina Medical Care
+    url: https://carolinamedicalcare.com
+  - name: Tekrek
+    url: https://tekrek.com
+  - name: Chaska Indian Cuisine
+    url: https://chaskaindiancuisine.com
+  - name: Tara Gems Galore
+    url: https://taragemsgalorellc.com
+  - name: Saffron Durham
+    url: https://saffrondurham.com
+  - name: Vata Vriksh
+    url: https://vatavriksh.com
+  - name: Launch Morrisville
+    url: https://LaunchMorrisville.org
+  - name: Techlogyx
+    url: https://techlogyx.com
 
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
