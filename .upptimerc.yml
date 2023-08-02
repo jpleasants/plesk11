@@ -3,9 +3,62 @@ owner: jpleasants # Your GitHub organization or username, where this repository 
 repo: plesk9 # The name of this repository
 
 sites:
-  - name: Placeholder
-    url: https://placeholder.com
+  - name: Obsn
+    url: https://obsn.org
+  - name: Saffron Cary
+    url: https://saffroncary.com
+  - name: Chaat Mand Inc
+    url: https://chaatmandinc.com
+  - name: Staging Obsn 
+    url: https://staging.obsn.com
+  - name: Maharaja Nc
+    url: https://maharajanc.com
+  - name: Maharaja Nc
+    url: https://maharajanc.com
+  - name: thalirtp
+    url: https://thalirtp.com
+  - name: Ncspices
+    url: https://ncspices.com
+  - name: Directed Facility Solutions
+    url: https://directedfacilitysolutions.com
+  - name: Ncsglobalinc
+    url: https://ncsglobalinc.com
+  - name: Park Lifecomm
+    url: https://parklifecomm.com
+  - name: Park Lifecomm
+    url: https://parklifecomm.com
+  - name: March to Thepolls
+    url: https://marchtothepolls.org
+  - name: mshubs
+    url: https://mshubs.com
+  - name: Epec Solutions Inc
+    url: https://epecsolutionsinc.com
+  - name: May Flower seafoodrm
+    url: https://mayflowerseafoodrm.com
+  - name: Veear Health
+    url: https://veearhealth.com
+  - name: Origin Hubs
+    url: https://originhubs.com
+  - name: Doorworks Company
+    url: https://doorworkscompany.com
+  - name: Carolina Medical Care
+    url: https://carolinamedicalcare.com
+  - name: Tekrek
+    url: https://tekrek.com
+  - name: Chaska Indian Cuisine
+    url: https://chaskaindiancuisine.com
+  - name: Tara Gems Galorellc
+    url: https://taragemsgalorellc.com
+  - name: Saffron Durham
+    url: https://saffrondurham.com
+  - name: Vata vriksh
+    url: https://vatavriksh.com
+  - name: Launch Morrisville
+    url: https://LaunchMorrisville.org
+  - name: Techlogyx
+    url: https://techlogyx.com
 
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
