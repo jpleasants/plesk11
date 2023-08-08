@@ -22,19 +22,19 @@
     "url": "https://obsn.org",
     "icon": "https://icons.duckduckgo.com/ip3/obsn.org.ico",
     "slug": "obsn",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 8577,
-    "timeDay": 8407,
-    "timeWeek": 8577,
-    "timeMonth": 8577,
-    "timeYear": 8577,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 8484,
+    "timeDay": 8090,
+    "timeWeek": 8484,
+    "timeMonth": 8484,
+    "timeYear": 8484,
     "dailyMinutesDown": {
-      "2023-08-08": 4
+      "2023-08-08": 7
     }
   },
   {
