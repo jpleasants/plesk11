@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plesk9.samitsolutions.com.ico",
     "slug": "plesk-9",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 502,
     "timeDay": 412,
     "timeWeek": 500,
-    "timeMonth": 488,
+    "timeMonth": 494,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2023-08-08": 25
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/obsn.org.ico",
     "slug": "obsn",
     "status": "up",
-    "uptime": "85.35%",
+    "uptime": "85.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "84.83%",
-    "uptimeYear": "85.35%",
+    "uptimeYear": "85.65%",
     "time": 8103,
-    "timeDay": 10320,
-    "timeWeek": 9050,
-    "timeMonth": 8043,
+    "timeDay": 14703,
+    "timeWeek": 9124,
+    "timeMonth": 8007,
     "timeYear": 8103,
     "dailyMinutesDown": {
       "2023-08-30": 15,
@@ -65,7 +65,7 @@
     "time": 860,
     "timeDay": 835,
     "timeWeek": 664,
-    "timeMonth": 877,
+    "timeMonth": 897,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2023-08-08": 24
@@ -77,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chaatmandinc.com.ico",
     "slug": "chaat-mandi-nc",
     "status": "up",
-    "uptime": "79.19%",
+    "uptime": "79.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "78.46%",
-    "uptimeYear": "79.19%",
+    "uptimeYear": "79.61%",
     "time": 5052,
     "timeDay": 7848,
     "timeWeek": 6089,
-    "timeMonth": 5101,
+    "timeMonth": 5174,
     "timeYear": 5052,
     "dailyMinutesDown": {
       "2023-08-18": 938,
@@ -112,7 +112,7 @@
     "time": 425,
     "timeDay": 273,
     "timeWeek": 462,
-    "timeMonth": 414,
+    "timeMonth": 421,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2023-08-08": 23
@@ -132,7 +132,7 @@
     "time": 6211,
     "timeDay": 5630,
     "timeWeek": 6708,
-    "timeMonth": 6255,
+    "timeMonth": 6307,
     "timeYear": 6211,
     "dailyMinutesDown": {
       "2023-08-12": 18
@@ -143,19 +143,19 @@
     "url": "https://ncspices.com",
     "icon": "https://icons.duckduckgo.com/ip3/ncspices.com.ico",
     "slug": "nc-spices",
-    "status": "up",
-    "uptime": "79.03%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "78.30%",
-    "uptimeYear": "79.03%",
+    "status": "down",
+    "uptime": "79.48%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "78.32%",
+    "uptimeYear": "79.48%",
     "time": 8919,
     "timeDay": 7097,
     "timeWeek": 9016,
-    "timeMonth": 8998,
+    "timeMonth": 9047,
     "timeYear": 8919,
     "dailyMinutesDown": {
-      "2023-09-03": 10,
+      "2023-09-03": 3,
       "2023-08-23": 37,
       "2023-08-18": 938,
       "2023-08-17": 1440,
@@ -182,7 +182,7 @@
     "time": 430,
     "timeDay": 255,
     "timeWeek": 425,
-    "timeMonth": 421,
+    "timeMonth": 428,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2023-08-08": 22
@@ -202,7 +202,7 @@
     "time": 2170,
     "timeDay": 1252,
     "timeWeek": 2419,
-    "timeMonth": 2195,
+    "timeMonth": 2202,
     "timeYear": 2170,
     "dailyMinutesDown": {
       "2023-08-08": 21
@@ -222,7 +222,7 @@
     "time": 3443,
     "timeDay": 478,
     "timeWeek": 431,
-    "timeMonth": 3229,
+    "timeMonth": 3153,
     "timeYear": 3443,
     "dailyMinutesDown": {
       "2023-08-11": 44,
@@ -236,18 +236,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/marchtothepolls.org.ico",
     "slug": "march-to-the-polls",
     "status": "up",
-    "uptime": "79.10%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "78.37%",
-    "uptimeYear": "79.10%",
+    "uptime": "79.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "78.38%",
+    "uptimeYear": "79.54%",
     "time": 10260,
     "timeDay": 12456,
     "timeWeek": 9802,
-    "timeMonth": 10420,
+    "timeMonth": 10506,
     "timeYear": 10260,
     "dailyMinutesDown": {
-      "2023-09-03": 8,
       "2023-08-23": 20,
       "2023-08-18": 939,
       "2023-08-17": 1440,
@@ -274,7 +273,7 @@
     "time": 464,
     "timeDay": 284,
     "timeWeek": 438,
-    "timeMonth": 462,
+    "timeMonth": 470,
     "timeYear": 464,
     "dailyMinutesDown": {}
   },
@@ -292,7 +291,7 @@
     "time": 4725,
     "timeDay": 3456,
     "timeWeek": 5360,
-    "timeMonth": 4978,
+    "timeMonth": 5128,
     "timeYear": 4725,
     "dailyMinutesDown": {}
   },
@@ -310,7 +309,7 @@
     "time": 4363,
     "timeDay": 3397,
     "timeWeek": 4309,
-    "timeMonth": 4437,
+    "timeMonth": 4507,
     "timeYear": 4363,
     "dailyMinutesDown": {
       "2023-08-08": 20
@@ -330,7 +329,7 @@
     "time": 2987,
     "timeDay": 2589,
     "timeWeek": 2982,
-    "timeMonth": 3001,
+    "timeMonth": 3009,
     "timeYear": 2987,
     "dailyMinutesDown": {
       "2023-08-08": 19
@@ -350,7 +349,7 @@
     "time": 7147,
     "timeDay": 5477,
     "timeWeek": 6456,
-    "timeMonth": 7209,
+    "timeMonth": 7186,
     "timeYear": 7147,
     "dailyMinutesDown": {
       "2023-08-12": 15,
@@ -371,7 +370,7 @@
     "time": 5952,
     "timeDay": 4473,
     "timeWeek": 6875,
-    "timeMonth": 6019,
+    "timeMonth": 6066,
     "timeYear": 5952,
     "dailyMinutesDown": {}
   },
@@ -389,7 +388,7 @@
     "time": 5080,
     "timeDay": 253,
     "timeWeek": 581,
-    "timeMonth": 4927,
+    "timeMonth": 4910,
     "timeYear": 5080,
     "dailyMinutesDown": {}
   },
@@ -407,7 +406,7 @@
     "time": 195,
     "timeDay": 111,
     "timeWeek": 195,
-    "timeMonth": 191,
+    "timeMonth": 193,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2023-08-08": 17
@@ -419,15 +418,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chaskaindiancuisine.com.ico",
     "slug": "chaska-indian-cuisine",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 3902,
     "timeDay": 314,
     "timeWeek": 598,
-    "timeMonth": 3939,
+    "timeMonth": 3952,
     "timeYear": 3902,
     "dailyMinutesDown": {
       "2023-08-08": 16
@@ -447,7 +446,7 @@
     "time": 8909,
     "timeDay": 6973,
     "timeWeek": 9894,
-    "timeMonth": 8954,
+    "timeMonth": 9050,
     "timeYear": 8909,
     "dailyMinutesDown": {
       "2023-08-31": 20,
@@ -468,7 +467,7 @@
     "time": 3164,
     "timeDay": 2835,
     "timeWeek": 3142,
-    "timeMonth": 3201,
+    "timeMonth": 3217,
     "timeYear": 3164,
     "dailyMinutesDown": {}
   },
@@ -486,7 +485,7 @@
     "time": 428,
     "timeDay": 377,
     "timeWeek": 476,
-    "timeMonth": 420,
+    "timeMonth": 427,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -504,7 +503,7 @@
     "time": 6616,
     "timeDay": 3977,
     "timeWeek": 6782,
-    "timeMonth": 6729,
+    "timeMonth": 6693,
     "timeYear": 6616,
     "dailyMinutesDown": {}
   },
@@ -522,7 +521,7 @@
     "time": 5244,
     "timeDay": 4009,
     "timeWeek": 5279,
-    "timeMonth": 5322,
+    "timeMonth": 5344,
     "timeYear": 5244,
     "dailyMinutesDown": {}
   }
