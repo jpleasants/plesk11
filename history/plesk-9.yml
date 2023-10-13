@@ -1,7 +1,7 @@
 url: https://plesk9.samitsolutions.com
-status: up
-code: 200
-responseTime: 402
-lastUpdated: 2023-10-12T23:01:33.011Z
+status: down
+code: 500
+responseTime: 321
+lastUpdated: 2023-10-13T11:36:54.957Z
 startTime: 2023-08-02T17:30:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
