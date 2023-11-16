@@ -8,7 +8,7 @@ sites:
     port: 8443
   - name: OBSN
     url: https://obsn.org
-    maxResponseTime: 20000
+    maxResponseTime: 40000
   - name: Saffron Cary
     url: https://saffroncary.com
   - name: Chaat Mandi NC
