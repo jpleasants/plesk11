@@ -1,7 +1,7 @@
 url: https://marchtothepolls.org
-status: up
-code: 200
-responseTime: 5149
-lastUpdated: 2024-05-14T23:02:00.655Z
+status: down
+code: 500
+responseTime: 10276
+lastUpdated: 2024-05-15T11:11:09.354Z
 startTime: 2023-08-02T17:30:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
