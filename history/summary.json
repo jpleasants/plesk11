@@ -54,7 +54,7 @@
     "timeDay": 5979,
     "timeWeek": 2286,
     "timeMonth": 2445,
-    "timeYear": 6206,
+    "timeYear": 6202,
     "dailyMinutesDown": {
       "2024-08-04": 98,
       "2024-08-03": 280,
@@ -381,7 +381,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncspices.com.ico",
     "slug": "nc-spices",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
@@ -673,7 +673,7 @@
     "timeMonth": 0,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2024-08-07": 1250,
+      "2024-08-07": 1281,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -1012,19 +1012,19 @@
     "url": "https://taragemsgalorellc.com",
     "icon": "https://icons.duckduckgo.com/ip3/taragemsgalorellc.com.ico",
     "slug": "tara-gems-galore",
-    "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "9.56%",
-    "uptimeWeek": "71.48%",
-    "uptimeMonth": "77.59%",
-    "uptimeYear": "96.93%",
+    "status": "down",
+    "uptime": "97.05%",
+    "uptimeDay": "11.52%",
+    "uptimeWeek": "71.76%",
+    "uptimeMonth": "77.58%",
+    "uptimeYear": "97.00%",
     "time": 6299,
     "timeDay": 11444,
     "timeWeek": 12190,
     "timeMonth": 11492,
     "timeYear": 6293,
     "dailyMinutesDown": {
-      "2024-08-07": 1113,
+      "2024-08-07": 1115,
       "2024-08-06": 654,
       "2024-08-05": 256,
       "2024-08-04": 18,
@@ -1043,7 +1043,7 @@
       "2024-07-03": 1253,
       "2024-07-02": 1130,
       "2024-07-01": 978,
-      "2024-06-30": 735
+      "2024-06-30": 341
     }
   },
   {
@@ -1130,7 +1130,7 @@
     "timeMonth": 523,
     "timeYear": 6655,
     "dailyMinutesDown": {
-      "2024-08-07": 1251,
+      "2024-08-07": 1281,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
