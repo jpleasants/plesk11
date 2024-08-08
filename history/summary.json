@@ -672,7 +672,7 @@
     "timeMonth": 0,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2024-08-08": 1030,
+      "2024-08-08": 1049,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
@@ -1012,19 +1012,19 @@
     "url": "https://taragemsgalorellc.com",
     "icon": "https://icons.duckduckgo.com/ip3/taragemsgalorellc.com.ico",
     "slug": "tara-gems-galore",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "75.72%",
-    "uptimeWeek": "75.64%",
+    "status": "down",
+    "uptime": "97.14%",
+    "uptimeDay": "76.92%",
+    "uptimeWeek": "75.82%",
     "uptimeMonth": "77.14%",
-    "uptimeYear": "97.07%",
+    "uptimeYear": "97.09%",
     "time": 6288,
     "timeDay": 6814,
     "timeWeek": 11476,
     "timeMonth": 11094,
     "timeYear": 6281,
     "dailyMinutesDown": {
-      "2024-08-08": 135,
+      "2024-08-08": 137,
       "2024-08-07": 1172,
       "2024-08-06": 654,
       "2024-08-05": 256,
@@ -1043,7 +1043,7 @@
       "2024-07-04": 1349,
       "2024-07-03": 1253,
       "2024-07-02": 1130,
-      "2024-07-01": 768
+      "2024-07-01": 680
     }
   },
   {
@@ -1130,7 +1130,7 @@
     "timeMonth": 402,
     "timeYear": 6660,
     "dailyMinutesDown": {
-      "2024-08-08": 1030,
+      "2024-08-08": 1050,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
