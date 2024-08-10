@@ -1,7 +1,7 @@
 url: https://obsn.org
-status: up
-code: 200
-responseTime: 5554
-lastUpdated: 2024-08-09T23:02:51.112Z
+status: down
+code: 500
+responseTime: 3072
+lastUpdated: 2024-08-10T04:56:42.912Z
 startTime: 2023-08-02T17:30:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
