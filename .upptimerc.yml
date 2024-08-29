@@ -7,55 +7,180 @@ sites:
   - name: Plesk 9
     url: https://plesk9.samitsolutions.com
     port: 8443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: OBSN
     url: https://obsn.org
     maxResponseTime: 20000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Saffron Cary
     url: https://saffroncary.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Chaat Mandi NC
     url: https://chaatmandinc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Maharaja NC
     url: https://maharajanc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Thali RTP
     url: https://thalirtp.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: NC Spices
     url: https://ncspices.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Directed Facility Solutions
     url: https://directedfacilitysolutions.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: NCS Global Inc
     url: https://ncsglobalinc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Park Life
     url: https://parklifecomm.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: March to The Polls
     url: https://marchtothepolls.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: MS Hubs
     url: https://mshubs.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Epec Solutions Inc
     url: https://epecsolutionsinc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: May Flower Seafood
     url: https://mayflowerseafoodrm.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Veear Health
     url: https://veearhealth.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Origin Hubs
     url: https://originhubs.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Doorworks Company
     url: https://doorworkscompany.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Carolina Medical Care
     url: https://carolinamedicalcare.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Tekrek
     url: https://tekrek.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Chaska Indian Cuisine
     url: https://chaskaindiancuisine.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Tara Gems Galore
     url: https://taragemsgalorellc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Saffron Durham
     url: https://saffrondurham.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Vata Vriksh
     url: https://vatavriksh.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Launch Morrisville
     url: https://LaunchMorrisville.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Techlogyx
     url: https://techlogyx.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
