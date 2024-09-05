@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.93%",
+    "uptimeWeek": "96.19%",
     "uptimeMonth": "94.01%",
     "uptimeYear": "98.66%",
     "time": 577,
@@ -47,11 +47,11 @@
     "url": "https://obsn.org",
     "icon": "https://icons.duckduckgo.com/ip3/obsn.org.ico",
     "slug": "obsn",
-    "status": "up",
-    "uptime": "94.49%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "98.45%",
+    "status": "down",
+    "uptime": "94.50%",
+    "uptimeDay": "92.08%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "93.97%",
     "time": 5800,
     "timeDay": 1697,
@@ -59,7 +59,7 @@
     "timeMonth": 2283,
     "timeYear": 5579,
     "dailyMinutesDown": {
-      "2024-09-05": 92,
+      "2024-09-05": 93,
       "2024-09-04": 47,
       "2024-09-03": 73,
       "2024-09-02": 69,
@@ -136,8 +136,7 @@
       "2023-09-16": 427,
       "2023-09-15": 1440,
       "2023-09-14": 207,
-      "2023-09-13": 41,
-      "2023-09-12": 34
+      "2023-09-13": 41
     }
   },
   {
@@ -651,7 +650,7 @@
     "timeMonth": 0,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2024-09-05": 621,
+      "2024-09-05": 647,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
@@ -1137,7 +1136,7 @@
     "uptime": "90.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.84%",
+    "uptimeMonth": "75.90%",
     "uptimeYear": "89.72%",
     "time": 6456,
     "timeDay": 223,
