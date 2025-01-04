@@ -34,13 +34,6 @@ sites:
       - 201
       - 301
       - 403
-  - name: Maharaja NC
-    url: https://maharajanc.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
   - name: Thali RTP
     url: https://thalirtp.com
     expectedStatusCodes:
