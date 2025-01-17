@@ -55,8 +55,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: NCS Global Inc
-    url: https://ncsglobalinc.com
+  - name: Launch Morrisville
+    url: https://LaunchMorrisville.org
     expectedStatusCodes:
       - 200
       - 201
@@ -76,8 +76,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: MS Hubs
-    url: https://mshubs.com
+  - name: Raiden Techgroup
+    url: https://raidentechgroup.com
     expectedStatusCodes:
       - 200
       - 201
@@ -132,8 +132,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: Chaska Indian Cuisine
-    url: https://chaskaindiancuisine.com
+  - name: Kingstan doorandbar
+    url: https://kingstandoorandbar.com
     expectedStatusCodes:
       - 200
       - 201
@@ -169,6 +169,20 @@ sites:
       - 403
   - name: Techlogyx
     url: https://techlogyx.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name:  Directedmarketing Solutions
+    url: https://directedmarketing.solutions
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name:  Veear Capital
+    url: https://veearcapital.com
     expectedStatusCodes:
       - 200
       - 201
