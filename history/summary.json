@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-02-19": 592,
+      "2025-02-19": 600,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -1075,11 +1075,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/directedmarketing.solutions.ico",
     "slug": "directedmarketing-solutions",
     "status": "up",
-    "uptime": "77.32%",
+    "uptime": "77.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.07%",
+    "uptimeWeek": "66.16%",
     "uptimeMonth": "75.70%",
-    "uptimeYear": "77.32%",
+    "uptimeYear": "77.33%",
     "time": 372,
     "timeDay": 393,
     "timeWeek": 1010,
@@ -1101,19 +1101,19 @@
     "url": "https://veearcapital.com",
     "icon": "https://icons.duckduckgo.com/ip3/veearcapital.com.ico",
     "slug": "veear-capital",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 109,
     "timeDay": 129,
-    "timeWeek": 108,
+    "timeWeek": 111,
     "timeMonth": 110,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-02-19": 1
+      "2025-02-19": 9
     }
   }
 ]
