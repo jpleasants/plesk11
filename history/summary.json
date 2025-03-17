@@ -4,18 +4,20 @@
     "url": "https://plesk11.samitsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk11.samitsolutions.com.ico",
     "slug": "plesk-11",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
     "time": 2631,
     "timeDay": 2631,
     "timeWeek": 2631,
     "timeMonth": 2631,
     "timeYear": 2631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 5
+    }
   },
   {
     "name": "marchtothepolls",
@@ -76,18 +78,20 @@
     "url": "https://clintrialresearch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clintrialresearch.com.ico",
     "slug": "clintrialresearch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 710,
     "timeDay": 710,
     "timeWeek": 710,
     "timeMonth": 710,
     "timeYear": 710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 4
+    }
   },
   {
     "name": "OBSN",
@@ -159,36 +163,40 @@
     "url": "https://cholanad.com",
     "icon": "https://icons.duckduckgo.com/ip3/cholanad.com.ico",
     "slug": "cholanad",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 2227,
     "timeDay": 2227,
     "timeWeek": 2227,
     "timeMonth": 2227,
     "timeYear": 2227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 4
+    }
   },
   {
     "name": "cmcbuildinginc",
     "url": "https://cmcbuildinginc.com",
     "icon": "https://icons.duckduckgo.com/ip3/cmcbuildinginc.com.ico",
     "slug": "cmcbuildinginc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 1310,
     "timeDay": 1310,
     "timeWeek": 1310,
     "timeMonth": 1310,
     "timeYear": 1310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 3
+    }
   },
   {
     "name": "carolinaretinaeyecare",
@@ -231,36 +239,40 @@
     "url": "https://chaskaindiancuisine.com",
     "icon": "https://icons.duckduckgo.com/ip3/chaskaindiancuisine.com.ico",
     "slug": "chaskaindiancuisine",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 3109,
     "timeDay": 3109,
     "timeWeek": 3109,
     "timeMonth": 3109,
     "timeYear": 3109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 2
+    }
   },
   {
     "name": "clovencardamom",
     "url": "https://clovencardamom.com",
     "icon": "https://icons.duckduckgo.com/ip3/clovencardamom.com.ico",
     "slug": "clovencardamom",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 2478,
     "timeDay": 2478,
     "timeWeek": 2478,
     "timeMonth": 2478,
     "timeYear": 2478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 2
+    }
   },
   {
     "name": "vascularwellness",
@@ -375,35 +387,39 @@
     "url": "https://epecsolutionsinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/epecsolutionsinc.com.ico",
     "slug": "epecsolutionsinc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 5436,
     "timeDay": 5436,
     "timeWeek": 5436,
     "timeMonth": 5436,
     "timeYear": 5436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 1
+    }
   },
   {
     "name": "carolinas",
     "url": "https://carolinas.tie.org",
     "icon": "https://icons.duckduckgo.com/ip3/carolinas.tie.org.ico",
     "slug": "carolinas",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1604,
     "timeDay": 1604,
     "timeWeek": 1604,
     "timeMonth": 1604,
     "timeYear": 1604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   }
 ]
