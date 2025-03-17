@@ -1,12 +1,41 @@
 # Change these first
 owner: jpleasants # Your GitHub organization or username, where this repository lives
-repo: plesk9 # The name of this repository
+repo: plesk11 # The name of this repository
 delay: 2000 # 2 seconds
 
 sites:
-  - name: Plesk 9
-    url: https://plesk9.samitsolutions.com
+  - name: plesk 11
+    url: https://plesk11.samitsolutions.com
     port: 8443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: marchtothepolls
+    url: https://marchtothepolls.org
+    maxResponseTime: 20000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: picklesandplay
+    url: https://picklesandplay.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: tandooribitesdurham
+    url: https://tandooribitesdurham.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: clintrialresearch
+    url: https://clintrialresearch.com/
     expectedStatusCodes:
       - 200
       - 201
@@ -14,175 +43,104 @@ sites:
       - 403
   - name: OBSN
     url: https://obsn.org
-    maxResponseTime: 20000
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Saffron Cary
-    url: https://saffroncary.com
+  - name: cholanad
+    url: https://cholanad.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Chaat Mandi NC
+  - name: cmcbuildinginc
+    url: https://cmcbuildinginc.com 
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: carolinaretinaeyecare
+    url: https://carolinaretinaeyecare.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: samitsolutions
+    url: https://samitsolutions.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: chaskaindiancuisine
+    url: https://chaskaindiancuisine.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: clovencardamom
+    url: https://clovencardamom.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: vascularwellness
+    url: https://vascularwellness.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: tandooribites
+    url: https://tandooribites.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: tandoorchapelhill
+    url: https://tandoorchapelhill.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: africancaribbeanmarket
+    url: https://africancaribbeanmarket.com/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: chaatmandinc
     url: https://chaatmandinc.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Thali RTP
-    url: https://thalirtp.com
+  - name: freshindianmarket
+    url: https://freshindianmarket.com/
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: NC Spices
-    url: https://ncspices.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Directed Facility Solutions
-    url: https://directedfacilitysolutions.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Launch Morrisville
-    url: https://LaunchMorrisville.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Park Life
-    url: https://parklifecomm.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: March to The Polls
-    url: https://marchtothepolls.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Raiden Techgroup
-    url: https://raidentechgroup.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Epec Solutions Inc
+  - name: epecsolutionsinc
     url: https://epecsolutionsinc.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: May Flower Seafood
-    url: https://mayflowerseafoodrm.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Veear Health
-    url: https://veearhealth.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Origin Hubs
-    url: https://originhubs.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Doorworks Company
-    url: https://doorworkscompany.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Carolina Medical Care
-    url: https://carolinamedicalcare.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Tekrek
-    url: https://tekrek.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Kingstan doorandbar
-    url: https://kingstandoorandbar.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Tara Gems Galore
-    url: https://taragemsgalorellc.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Saffron Durham
-    url: https://saffrondurham.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Vata Vriksh
-    url: https://vatavriksh.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Launch Morrisville
-    url: https://LaunchMorrisville.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Techlogyx
-    url: https://techlogyx.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name:  Directedmarketing Solutions
-    url: https://directedmarketing.solutions
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name:  Veear Capital
-    url: https://veearcapital.com
+  - name: carolinas
+    url: https://carolinas.tie.org
     expectedStatusCodes:
       - 200
       - 201
@@ -193,7 +151,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /plesk9
+  baseUrl: /plesk11
   logoUrl: https://samitpublic.blob.core.windows.net/download/sam-it-dots(1).png
   name: SAM IT Solutions
   theme: night
