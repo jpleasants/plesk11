@@ -4,7 +4,7 @@
     "url": "https://plesk11.samitsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk11.samitsolutions.com.ico",
     "slug": "plesk-11",
-    "status": "up",
+    "status": "down",
     "uptime": "80.86%",
     "uptimeDay": "80.86%",
     "uptimeWeek": "80.86%",
@@ -16,7 +16,7 @@
     "timeMonth": 4212,
     "timeYear": 4212,
     "dailyMinutesDown": {
-      "2025-03-17": 65
+      "2025-03-17": 69
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://clintrialresearch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clintrialresearch.com.ico",
     "slug": "clintrialresearch",
-    "status": "up",
-    "uptime": "81.11%",
-    "uptimeDay": "81.11%",
-    "uptimeWeek": "81.11%",
-    "uptimeMonth": "81.11%",
-    "uptimeYear": "81.11%",
+    "status": "down",
+    "uptime": "81.26%",
+    "uptimeDay": "81.26%",
+    "uptimeWeek": "81.26%",
+    "uptimeMonth": "81.26%",
+    "uptimeYear": "81.26%",
     "time": 3960,
     "timeDay": 3960,
     "timeWeek": 3960,
     "timeMonth": 3960,
     "timeYear": 3960,
     "dailyMinutesDown": {
-      "2025-03-17": 63
+      "2025-03-17": 67
     }
   },
   {
@@ -163,19 +163,19 @@
     "url": "https://cholanad.com",
     "icon": "https://icons.duckduckgo.com/ip3/cholanad.com.ico",
     "slug": "cholanad",
-    "status": "up",
-    "uptime": "81.35%",
-    "uptimeDay": "81.35%",
-    "uptimeWeek": "81.35%",
-    "uptimeMonth": "81.35%",
-    "uptimeYear": "81.35%",
+    "status": "down",
+    "uptime": "81.63%",
+    "uptimeDay": "81.63%",
+    "uptimeWeek": "81.63%",
+    "uptimeMonth": "81.63%",
+    "uptimeYear": "81.63%",
     "time": 3659,
     "timeDay": 3659,
     "timeWeek": 3659,
     "timeMonth": 3659,
     "timeYear": 3659,
     "dailyMinutesDown": {
-      "2025-03-17": 63
+      "2025-03-17": 66
     }
   },
   {
@@ -183,19 +183,19 @@
     "url": "https://cmcbuildinginc.com",
     "icon": "https://icons.duckduckgo.com/ip3/cmcbuildinginc.com.ico",
     "slug": "cmcbuildinginc",
-    "status": "up",
-    "uptime": "81.62%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "81.62%",
-    "uptimeMonth": "81.62%",
-    "uptimeYear": "81.62%",
+    "status": "down",
+    "uptime": "82.03%",
+    "uptimeDay": "82.03%",
+    "uptimeWeek": "82.03%",
+    "uptimeMonth": "82.03%",
+    "uptimeYear": "82.03%",
     "time": 2962,
     "timeDay": 2962,
     "timeWeek": 2962,
     "timeMonth": 2962,
     "timeYear": 2962,
     "dailyMinutesDown": {
-      "2025-03-17": 62
+      "2025-03-17": 65
     }
   },
   {
@@ -239,19 +239,19 @@
     "url": "https://chaskaindiancuisine.com",
     "icon": "https://icons.duckduckgo.com/ip3/chaskaindiancuisine.com.ico",
     "slug": "chaskaindiancuisine",
-    "status": "up",
-    "uptime": "81.88%",
-    "uptimeDay": "81.88%",
-    "uptimeWeek": "81.88%",
-    "uptimeMonth": "81.88%",
-    "uptimeYear": "81.88%",
+    "status": "down",
+    "uptime": "82.45%",
+    "uptimeDay": "82.45%",
+    "uptimeWeek": "82.45%",
+    "uptimeMonth": "82.45%",
+    "uptimeYear": "82.45%",
     "time": 2694,
     "timeDay": 2694,
     "timeWeek": 2694,
     "timeMonth": 2694,
     "timeYear": 2694,
     "dailyMinutesDown": {
-      "2025-03-17": 61
+      "2025-03-17": 63
     }
   },
   {
@@ -259,19 +259,19 @@
     "url": "https://clovencardamom.com",
     "icon": "https://icons.duckduckgo.com/ip3/clovencardamom.com.ico",
     "slug": "clovencardamom",
-    "status": "up",
-    "uptime": "82.13%",
-    "uptimeDay": "82.13%",
-    "uptimeWeek": "82.13%",
-    "uptimeMonth": "82.13%",
-    "uptimeYear": "82.13%",
+    "status": "down",
+    "uptime": "82.84%",
+    "uptimeDay": "82.84%",
+    "uptimeWeek": "82.84%",
+    "uptimeMonth": "82.84%",
+    "uptimeYear": "82.84%",
     "time": 3841,
     "timeDay": 3841,
     "timeWeek": 3841,
     "timeMonth": 3841,
     "timeYear": 3841,
     "dailyMinutesDown": {
-      "2025-03-17": 60
+      "2025-03-17": 62
     }
   },
   {
@@ -387,19 +387,19 @@
     "url": "https://epecsolutionsinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/epecsolutionsinc.com.ico",
     "slug": "epecsolutionsinc",
-    "status": "up",
-    "uptime": "82.38%",
-    "uptimeDay": "82.38%",
-    "uptimeWeek": "82.38%",
-    "uptimeMonth": "82.38%",
-    "uptimeYear": "82.38%",
+    "status": "down",
+    "uptime": "83.28%",
+    "uptimeDay": "83.28%",
+    "uptimeWeek": "83.28%",
+    "uptimeMonth": "83.28%",
+    "uptimeYear": "83.28%",
     "time": 8476,
     "timeDay": 8476,
     "timeWeek": 8476,
     "timeMonth": 8476,
     "timeYear": 8476,
     "dailyMinutesDown": {
-      "2025-03-17": 59
+      "2025-03-17": 60
     }
   },
   {
@@ -407,12 +407,12 @@
     "url": "https://carolinas.tie.org",
     "icon": "https://icons.duckduckgo.com/ip3/carolinas.tie.org.ico",
     "slug": "carolinas",
-    "status": "up",
-    "uptime": "82.65%",
-    "uptimeDay": "82.65%",
-    "uptimeWeek": "82.65%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "82.65%",
+    "status": "down",
+    "uptime": "83.69%",
+    "uptimeDay": "83.69%",
+    "uptimeWeek": "83.69%",
+    "uptimeMonth": "83.69%",
+    "uptimeYear": "83.69%",
     "time": 1763,
     "timeDay": 1763,
     "timeWeek": 1763,
