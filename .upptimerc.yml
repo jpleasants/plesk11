@@ -48,13 +48,6 @@ sites:
       - 201
       - 301
       - 403
-  - name: cholanad
-    url: https://cholanad.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
   - name: cmcbuildinginc
     url: https://cmcbuildinginc.com 
     expectedStatusCodes:
