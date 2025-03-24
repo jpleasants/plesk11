@@ -146,6 +146,48 @@ sites:
       - 201
       - 301
       - 403
+  - name: raidentechgroup
+    url: https://raidentechgroup.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: azitra
+    url: https://azitra.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: harmonync
+    url: https://harmonync.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: control-infotech
+    url: https://control-infotech.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: campussafetyproducts
+    url: https://campussafetyproducts.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: campussafetyproducts
+    url: https://campussafetyproducts.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
