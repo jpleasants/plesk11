@@ -1,7 +1,7 @@
 # Change these first
 owner: jpleasants # Your GitHub organization or username, where this repository lives
 repo: plesk11 # The name of this repository
-delay: 7000 # 7 seconds
+delay: 9000 # 9 seconds
 
 sites:
   - name: plesk 11
