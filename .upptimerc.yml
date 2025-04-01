@@ -14,7 +14,7 @@ sites:
       - 403
   - name: marchtothepolls
     url: https://marchtothepolls.org
-    maxResponseTime: 20000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
