@@ -23,12 +23,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-  - name: tandooribitesdurham
-    url: https://tandooribitesdurham.com
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 201
   - name: clintrialresearch
     url: https://clintrialresearch.com/
     maxResponseTime: 5000
