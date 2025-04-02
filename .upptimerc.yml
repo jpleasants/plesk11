@@ -68,7 +68,6 @@ sites:
   - name: clovencardamom
     url: https://clovencardamom.com
     maxResponseTime: 5000
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
