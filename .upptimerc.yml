@@ -7,68 +7,44 @@ sites:
   - name: plesk 11
     url: https://plesk11.samitsolutions.com
     port: 8443
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: marchtothepolls
     url: https://marchtothepolls.org
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
-  - name: picklesandplay
-    url: https://picklesandplay.com
-    maxResponseTime: 5000
+   - name: picklesandplay
+     url: https://picklesandplay.com
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
-  - name: tandooribitesdurham
-    url: https://tandooribitesdurham.com
-    maxResponseTime: 5000
+   - name: tandooribitesdurham
+     url: https://tandooribitesdurham.com
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: clintrialresearch
     url: https://clintrialresearch.com/
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: OBSN
     url: https://obsn.org
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: cmcbuildinginc
     url: https://cmcbuildinginc.com 
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: carolinaretinaeyecare
     url: https://carolinaretinaeyecare.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: samitsolutions
     url: https://samitsolutions.com
     expectedStatusCodes:
@@ -76,111 +52,77 @@ sites:
       - 201
   - name: chaskaindiancuisine
     url: https://chaskaindiancuisine.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: clovencardamom
     url: https://clovencardamom.com
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: vascularwellness
     url: https://vascularwellness.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: tandooribites
     url: https://tandooribites.net
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: tandoorchapelhill
     url: https://tandoorchapelhill.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: africancaribbeanmarket
     url: https://africancaribbeanmarket.com/
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: chaatmandinc
     url: https://chaatmandinc.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: freshindianmarket
     url: https://freshindianmarket.com/
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: epecsolutionsinc
     url: https://epecsolutionsinc.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: carolinas
     url: https://carolinas.tie.org
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: raidentechgroup
     url: https://raidentechgroup.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: azitra
     url: https://azitra.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: harmonync
     url: https://harmonync.org
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
   - name: control-infotech
     url: https://control-infotech.com
-    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+  - name: campussafetyproducts
+    url: https://campussafetyproducts.com
     expectedStatusCodes:
       - 200
       - 201
@@ -188,21 +130,10 @@ sites:
       - 403
   - name: campussafetyproducts
     url: https://campussafetyproducts.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 301
-      - 403
-  - name: campussafetyproducts
-    url: https://campussafetyproducts.com
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-
+     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
