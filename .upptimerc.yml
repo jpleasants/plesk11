@@ -74,7 +74,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: chaskaindiancuisine
     url: https://chaskaindiancuisine.com
     maxResponseTime: 5000
