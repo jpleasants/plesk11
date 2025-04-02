@@ -71,7 +71,6 @@ sites:
       - 403
   - name: samitsolutions
     url: https://samitsolutions.com
-    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
