@@ -67,7 +67,7 @@ sites:
       - 201
   - name: vascularwellness
     url: https://vascularwellness.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
