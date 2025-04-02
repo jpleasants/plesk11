@@ -13,7 +13,7 @@ sites:
       - 201
   - name: marchtothepolls
     url: https://marchtothepolls.org
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -133,13 +133,13 @@ sites:
       - 201
   - name: control-infotech
     url: https://control-infotech.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: campussafetyproducts
     url: https://campussafetyproducts.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
