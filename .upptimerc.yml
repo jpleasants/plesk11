@@ -15,13 +15,13 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-   - name: picklesandplay
-     url: https://picklesandplay.com
+  - name: picklesandplay
+    url: https://picklesandplay.com
     expectedStatusCodes:
       - 200
       - 201
-   - name: tandooribitesdurham
-     url: https://tandooribitesdurham.com
+  - name: tandooribitesdurham
+    url: https://tandooribitesdurham.com
     expectedStatusCodes:
       - 200
       - 201
