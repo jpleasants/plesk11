@@ -1,7 +1,7 @@
 url: https://vascularwellness.com
-status: up
-code: 200
-responseTime: 9480
-lastUpdated: 2025-04-06T17:32:31.782Z
+status: degraded
+code: 403
+responseTime: 10631
+lastUpdated: 2025-04-06T17:59:37.451Z
 startTime: 2025-03-17T14:58:41.539Z
 generator: Upptime <https://github.com/upptime/upptime>
