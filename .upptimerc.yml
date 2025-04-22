@@ -29,155 +29,133 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: OBSN
     url: https://obsn.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: cmcbuildinginc
     url: https://cmcbuildinginc.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: carolinaretinaeyecare
     url: https://carolinaretinaeyecare.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: samitsolutions
     url: https://samitsolutions.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: chaskaindiancuisine
     url: https://chaskaindiancuisine.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: clovencardamom
     url: https://clovencardamom.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: vascularwellness
     url: https://vascularwellness.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: tandooribites
     url: https://tandooribites.net
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: tandoorchapelhill
     url: https://tandoorchapelhill.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: africancaribbeanmarket
     url: https://africancaribbeanmarket.com/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: chaatmandinc
     url: https://chaatmandinc.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: freshindianmarket
     url: https://freshindianmarket.com/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: epecsolutionsinc
     url: https://epecsolutionsinc.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: carolinas
     url: https://carolinas.tie.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: raidentechgroup
     url: https://raidentechgroup.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: azitra
     url: https://azitra.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: harmonync
     url: https://harmonync.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: control-infotech
     url: https://control-infotech.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: campussafetyproducts
     url: https://campussafetyproducts.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: campussafetyproducts
     url: https://campussafetyproducts.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: gardenroaddistributors.com
     url: https://gardenroaddistributors.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
-     
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
