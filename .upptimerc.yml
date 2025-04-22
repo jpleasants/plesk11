@@ -11,21 +11,18 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: marchtothepolls
     url: https://marchtothepolls.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: picklesandplay
     url: https://picklesandplay.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: clintrialresearch
     url: https://clintrialresearch.com/
     maxResponseTime: 10000
