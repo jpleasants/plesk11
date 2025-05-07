@@ -131,13 +131,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: raidentechgroup
-    url: https://raidentechgroup.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
   - name: azitra
     url: https://azitra.com
     maxResponseTime: 10000
