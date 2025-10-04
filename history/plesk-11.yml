@@ -1,7 +1,7 @@
 url: https://plesk11.samitsolutions.com
-status: up
+status: degraded
 code: 200
-responseTime: 692
-lastUpdated: 2025-10-03T23:00:50.168Z
+responseTime: 20219
+lastUpdated: 2025-10-04T20:31:33.763Z
 startTime: 2025-03-17T14:58:00.588Z
 generator: Upptime <https://github.com/upptime/upptime>
