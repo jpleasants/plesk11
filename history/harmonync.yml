@@ -1,7 +1,7 @@
 url: https://harmonync.org
-status: up
+status: degraded
 code: 200
-responseTime: 7819
-lastUpdated: 2025-10-06T19:38:31.360Z
+responseTime: 10177
+lastUpdated: 2025-10-06T20:18:16.419Z
 startTime: 2025-03-24T14:44:56.969Z
 generator: Upptime <https://github.com/upptime/upptime>
